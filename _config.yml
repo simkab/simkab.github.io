@@ -2,3 +2,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-compress-html
   - jekyll-press
+
+sass:
+  style: compressed
